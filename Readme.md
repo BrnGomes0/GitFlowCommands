@@ -3,7 +3,11 @@
 ### GitFlow initialization:
 `git flow init`
 <br>
-![image](https://github.com/BrnGomes0/GitFlowCommands/assets/132568509/725dd1de-87f0-4f24-9dad-0b55607167c2)
+<img
+  src='https://github.com/BrnGomes0/GitFlowCommands/assets/132568509/725dd1de-87f0-4f24-9dad-0b55607167c2'
+  width='20px'
+  height='20px'
+  />
 
 
 ### Commands Generic git commands to commit to develop:
