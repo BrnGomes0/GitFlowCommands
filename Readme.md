@@ -39,7 +39,6 @@
 ### Finish or Publish a Release:
 `git flow release finish 1.0` -> When you enter that command, git flow show the file for you put a message in tag
 <br>
-<br>
 `git flow release publish 1.0`
 
 ### Creating a Hotfix:
