@@ -47,11 +47,8 @@
 <br>
 `git flow hotfix start 1.1` -> That command will create a branch [hotfix/1.1]
 <br>
-<br>
 
 ### Finish or Publish a Hotfix:
 `git flow hotfix finish 1.1` -> When you enter that command, git flow show the file for you put a message in tag
-<br>
-
 <br>
 `git flow hotfix publish 1.1`
