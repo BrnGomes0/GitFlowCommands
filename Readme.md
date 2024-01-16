@@ -6,7 +6,9 @@
 ### Commands Generic git commands to commit to develop:
 This commands is generic git commands (Normal):
 `git status`
+<br>
 `git add <file_name>` or `git add .`
+<br>
 `git commit -m "Message of Commit"`
 
 ### Command to access another existing branch
@@ -21,6 +23,7 @@ That branch work for create a new feature
 
 ### Finish or Publish a feature:
 `git flow feature finish css` -> Delete a branch and do the merge in develop (All automatic for Git Flow)
+<br>
 `git flow feature publish css ` -> Up in remote repository on Github
 
 ### Creating a new Release:
@@ -29,6 +32,7 @@ That branch work for Test the application
 
 ### Finish or Publish a Release:
 `git flow release finish 1.0` -> When you enter that command, git flow show the file for you put a message in tag
+<br>
 `git flow release publish 1.0`
 
 ### Creating a Hotfix:
@@ -37,4 +41,5 @@ That branch it is for change simples errors
 
 ### Finish or Publish a Hotfix:
 `git flow hotfix finish 1.1` When you enter that command, git flow show the file for you put a message in tag
+<br>
 `git flow hotfix publish 1.1`
