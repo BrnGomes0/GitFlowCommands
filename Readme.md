@@ -20,7 +20,6 @@
 ### Command see the tagas in branchs:
 `git tag` -> That command you can see all tags, but you can see only in develop or master/main
 <br>
-<br>
 ### Creating a new features:
 **That branch work for create a new feature**
 <br>
